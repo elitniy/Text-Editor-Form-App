@@ -1,0 +1,8 @@
+D:\code academy\c#\Text_Editor\Text_Editor\bin\Release\Text_Editor.exe.config
+D:\code academy\c#\Text_Editor\Text_Editor\bin\Release\Text_Editor.exe
+D:\code academy\c#\Text_Editor\Text_Editor\bin\Release\Text_Editor.pdb
+D:\code academy\c#\Text_Editor\Text_Editor\obj\Release\Text_Editor.Form1.resources
+D:\code academy\c#\Text_Editor\Text_Editor\obj\Release\Text_Editor.Properties.Resources.resources
+D:\code academy\c#\Text_Editor\Text_Editor\obj\Release\Text_Editor.csproj.GenerateResource.Cache
+D:\code academy\c#\Text_Editor\Text_Editor\obj\Release\Text_Editor.exe
+D:\code academy\c#\Text_Editor\Text_Editor\obj\Release\Text_Editor.pdb
